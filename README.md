@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henok Abrham</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Driving License Management system](https://github.com/Henok-Abrham/Driving-Liscense-Managment-system.git)
 
