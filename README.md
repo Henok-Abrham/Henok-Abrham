@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henok Abrham</h1>
+<h1 align="center">selam👋, I'm Henok Abrham</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henok-ab&label=Profile%20views&color=0e75b6&style=flat" alt="henok-ab" /> </p>
